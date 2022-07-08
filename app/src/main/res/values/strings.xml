@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ADExpress</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="firstTab">FirstTab</string>
+    <string name="secondTab">secondTab</string>
+    <string name="title">Title</string>
+    <string name="supporting_text">Supporting text</string>
+    <string name="cancel">cancel</string>
+    <string name="accept">save</string>
+</resources>
